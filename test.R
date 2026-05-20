@@ -8,4 +8,5 @@ library(ggplot2)
 #simular dados
 sms <- rnorm(100,0,3)
 
+#testando ..
 
