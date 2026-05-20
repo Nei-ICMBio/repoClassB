@@ -3,8 +3,9 @@
 # Script para demonstrar o processo do commit
 library(mgcv)
 library(gamm4)
+library(ggplot2)
 
 #simular dados
 sms <- rnorm(100,0,3)
 
-library(ggplot2)
+
