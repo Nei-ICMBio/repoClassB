@@ -6,3 +6,5 @@ library(gamm4)
 
 #simular dados
 sms <- rnorm(100,0,3)
+
+library(ggplot2)
