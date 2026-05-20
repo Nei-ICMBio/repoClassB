@@ -6,3 +6,4 @@ library(gamm4)
 
 #simular dados
 sms <- rnorm(100,0,3)
+sms.df <- as.data.frame(sms)
